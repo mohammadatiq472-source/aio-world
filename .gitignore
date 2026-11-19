@@ -1,0 +1,12 @@
+.DS_Store
+.env*
+!.env.example
+*.notes.md
+localstorage.json
+.notes/
+node_modules/
+build/
+/world*
+# 运行时调试日志
+*debug.log
+*.log
